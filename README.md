@@ -1,4 +1,4 @@
-# StructJsonString
+# StructJsonString for Unreal Engine 5 (UE5)
 
 StructJsonString is a runtime Unreal Engine plugin that converts Unreal Engine structures to and from JSON strings in Blueprint and C++.
 
